@@ -26,7 +26,7 @@ Run the Streamlit app using the commands below. The app displays a UI to enter t
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/beyondchats-assessment.git
+   git clone https://github.com/Leelaprasad001/beyondchats-assessment.git
 
 2. **Run the Commands**
    ```bash
